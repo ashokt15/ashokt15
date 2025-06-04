@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Ashok Tirlangi
 
-<!--
-**ashokt15/ashokt15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer | Problem Solver | Automation Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a dedicated full-stack developer with a passion for building modern, efficient, and scalable web applications. I focus on delivering real-world solutions that are functional and impactful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+| **Frontend**        | **Backend**         | **Database**         | **DevOps & Tools**     | **Others**                    |
+|---------------------|---------------------|-----------------------|------------------------|-------------------------------|
+| React.js            | Node.js             | MongoDB               | Git & GitHub           | Tableau                       |
+| JavaScript (ES6+)   | Express.js          | PostgreSQL            | Docker                 | AI Agent Automation           |
+| HTML5 / CSS3        | Python              | MySQL                 | AWS / GCP              | IoT Development               |
+| Tailwind CSS        | Java (Spring)       | Elasticsearch         | Kubernetes / Jenkins   | Jest / Cypress (Testing)      |
+| Bootstrap / MUI     |                     |                       | VS Code / Postman      | Prettier / ESLint             |
+
+---
+
+🌐 **Portfolio:** [Visit my portfolio](https://portfolio-six-flame-46.vercel.app/)
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out for collaborations, opportunities, or just to chat about tech!
+
+- 📧 Email: urashok15@gmail.com  
+- 🌐 Portfolio: [portfolio-six-flame-46.vercel.app](https://portfolio-six-flame-46.vercel.app/)  
+- 🌍 Location: India
+
+---
+
+Thanks for stopping by! 🚀
+
