@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a dedicated full-stack developer with a passion for bu
 
 Feel free to reach out for collaborations, opportunities, or just to chat about tech!
 
-- 📧 Email: urashok15@gmail.com  
+- 📧 Email: ashoktirlangi15@gmail.com  
 - 🌐 Portfolio: [portfolio-six-flame-46.vercel.app](https://portfolio-six-flame-46.vercel.app/)  
 - 🌍 Location: India
 
